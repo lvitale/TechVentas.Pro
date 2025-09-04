@@ -13,3 +13,4 @@ SELECT * FROM "Sale"."Pago";
 SELECT * FROM "Sale"."Venta";
 SELECT * FROM "Sale"."DetalleVenta";
 
+

@@ -24,8 +24,5 @@ where "pr"."Codigo" in ( select "dv"."Codigo_Producto" from "Sale"."DetalleVenta
 		     where "dv"."Numero_Venta" = 6);
 			 
 		     commit;
-end;
-rollback;			 
-
- 
+			 
 
